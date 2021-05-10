@@ -20,7 +20,7 @@ In order to use this library you will need to make sure that the following libra
 Here's a folder structure with documentation about Pythoneers functions.
 Clik on any link below to reed deeper:
 Cleaning:
- - [1.Function 1](#1.-Function-1)
+ - [1.Function 1](#1-function-1)
  - [2.Function 2](#2.-Function-2)
  - [3.Function 3](#3.-Function-3)
 Visualization:
