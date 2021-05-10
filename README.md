@@ -33,7 +33,7 @@ Machine learning:
  - [9.Function 9](#9.-Function-9)
 ***
 ### Documentation
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 1. Function 1
 This function blablabla
 #### Params:
@@ -41,7 +41,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p style="text-align:right;" align="right" href="#index">Back to index</p></a>
 ### 2. Function 2
 This function blablabla
 #### Params:
